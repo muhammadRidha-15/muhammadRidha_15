@@ -84,14 +84,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadRidha-15&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2EE6A0&height=120&section=footer" />
 </p>
